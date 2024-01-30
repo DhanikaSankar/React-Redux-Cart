@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+.card-img{
+  width: 250px;
+  padding:10px;
+}
+.card-main{
+  width: 50%;
+  margin: 20px 400px ;
+}
+a{
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+}
+.pro-main{
+  margin: 20px;
+}
+.pro-card{
+  width: 300px;
+  height: 350px;
+  margin: 20px;
+}
